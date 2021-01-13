@@ -5,6 +5,6 @@ This project will help in sending messages to verified number.
 Python
  
 # LibrariesUsed
--os
+os
 # API Used
 Twilio used
